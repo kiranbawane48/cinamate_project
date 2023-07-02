@@ -1,0 +1,30 @@
+d46509aadd23f83b1e08cc852696aa2a
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkNDY1MDlhYWRkMjNmODNiMWUwOGNjODUyNjk2YWEyYSIsInN1YiI6IjY0OWU4NjI3M2U2ZjJiMDBlMmRkZjI2OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.FDmCNMabiLnvgqNLS6ArPBsBAuIDD5KG1iogpn2qUJI
+
+
+search:
+https://api.themoviedb.org/3/search/movie?api_key=d46509aadd23f83b1e08cc852696aa2a&language=en-US&query=avatar&page=1&include_adult=false
+
+
+
+API Key: d46509aadd23f83b1e08cc852696aa2a
+Base URL: https://api.themoviedb.org/3
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=d46509aadd23f83b1e08cc852696aa2a
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=d46509aadd23f83b1e08cc852696aa2a
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=d46509aadd23f83b1e08cc852696aa2a
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=d46509aadd23f83b1e08cc852696aa2a
+
+Upcoming: 
+https://api.themoviedb.org/3/movie/upcoming?api_key=d46509aadd23f83b1e08cc852696aa2a
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=d46509aadd23f83b1e08cc852696aa2a&query={movie_name}
