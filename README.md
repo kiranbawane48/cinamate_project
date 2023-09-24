@@ -1,4 +1,17 @@
-#deployment link : https://kiranbawane-cinamate-project.netlify.app/
+**deployment link:** https://kiranbawane-cinamate-project.netlify.app/
+
+
+**Description:**
+• Created a responsive Movies Website that organizes movies by category and provides detailed information such as Review, Release Date, Rating, Budget, and Revenue using the TMDB API
+
+
+**Technologies:**
+HTMl & CSS | ReactJs | tailwindCSS | Git | Netlify
+
+
+
+
+
 
 
 # Getting Started with Create React App
