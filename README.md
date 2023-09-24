@@ -9,6 +9,8 @@
 HTMl & CSS | ReactJs | tailwindCSS | Git | Netlify
 
 
+**Demo:**
+![image](https://github.com/kiranbawane48/cinamate_project/assets/100428197/cdc6ef6a-31ee-4d20-af77-d4c1e41f19e9)
 
 
 
