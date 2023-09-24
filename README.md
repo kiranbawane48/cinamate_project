@@ -13,7 +13,10 @@ HTMl & CSS | ReactJs | tailwindCSS | Git | Netlify
 
 
 **Demo:**
-![ltm8p708](https://github.com/kiranbawane48/cinamate_project/assets/100428197/b632751e-e575-4619-a04b-a7218a563925)
+
+<div align="center">
+  <img src="https://github.com/kiranbawane48/cinamate_project/assets/100428197/b632751e-e575-4619-a04b-a7218a563925" alt="Image" width="400">
+</div>
 
 
 
