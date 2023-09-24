@@ -1,16 +1,20 @@
 **deployment link:** https://kiranbawane-cinamate-project.netlify.app/
 
 
+
 **Description:**
 • Created a responsive Movies Website that organizes movies by category and provides detailed information such as Review, Release Date, Rating, Budget, and Revenue using the TMDB API
+
 
 
 **Technologies:**
 HTMl & CSS | ReactJs | tailwindCSS | Git | Netlify
 
 
+
 **Demo:**
-![image](https://github.com/kiranbawane48/cinamate_project/assets/100428197/cdc6ef6a-31ee-4d20-af77-d4c1e41f19e9)
+![ltm8p708](https://github.com/kiranbawane48/cinamate_project/assets/100428197/b632751e-e575-4619-a04b-a7218a563925)
+
 
 
 
